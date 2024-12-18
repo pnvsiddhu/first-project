@@ -1,0 +1,6 @@
+To summarize, creating a Dockerfile involves:
+
+Creating the Dockerfile with the necessary instructions (e.g., defining the base image, copying files, setting up dependencies, and defining the entry point).
+Building the image using the docker build command.
+Running the container to test your Dockerized application.
+By following these steps, you'll be able to create and manage Docker images locally for your applications.
