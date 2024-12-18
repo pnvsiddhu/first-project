@@ -1,0 +1,2 @@
+I am creating this file to check the changes gets appened when pulling the repo to local
+When a Git pull is done you need to see this file gets updated at folder level 
